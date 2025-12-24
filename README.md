@@ -54,7 +54,7 @@ It allows you to "chat" with your entire codebase, send screenshots of errors, a
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+<img width="1393" height="978" alt="{8DF38200-8B90-47C4-AD4D-A1287072BA8E}" src="https://github.com/user-attachments/assets/1e89307f-e551-4287-8f5a-07f55ba2685d" />
 
 ## 🤝 Contributing
 
