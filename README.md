@@ -33,7 +33,7 @@ It allows you to "chat" with your entire codebase, send screenshots of errors, a
 
 3.  **Run the application:**
     ```bash
-    python main.py
+    python AI_java_Project_Coder_v10.py
     ```
     *(Replace `main.py` with the actual filename if different)*
 
