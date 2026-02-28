@@ -22,8 +22,8 @@ It allows you to "chat" with your entire codebase, send screenshots of errors, a
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/gemini-project-coder.git
-    cd gemini-project-coder
+    git clone https://github.com/AnonBOTpl/AI-java-Project-Coder-v10.git
+    cd AI-java-Project-Coder-v10
     ```
 
 2.  **Install dependencies:**
